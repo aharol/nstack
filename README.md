@@ -1,3 +1,9 @@
+# NOTE - this repo is no longer maintained
+
+We'll keep this up as a reference for anyone who may need it - please send any comments to dev@nstack.com going forward
+
+Thanks!
+
 # NStack: Composable, typed streams and microservices for data analytics
 
 ## Introduction
